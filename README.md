@@ -1,16 +1,23 @@
-## Hi there 👋
+# いらっしゃいませ (Welcome!)
 
-<!--
-**Mueslint/mueslint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Welcome to my page where I cook several things, from my curiosity for trends (web3, rust, AI) to some personnal projects. <br />
+🪑 Grab a stool and enjoy the menu!
 
-Here are some ideas to get you started:
+## 🦑 **Ingredients** <br/>
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🍱 Seasonal Omakase
+- **Nihongo learn** - Japanese fondamentals for beginners (JLPT N5)
+- **AI/LLMs** - Learning from a wide range of tool integration (NotebookLM, n8n, Claude) and best practice (multi-agent, agent work traces, etc.)
+- **Learning mechanics** - SRS, Active Recall, Interleaving, Feynman method
+
+
+## 🏮 Before it closes
+The kitchen is always open for interesting collaborations or late night chats.
+
+📍 **屋台 location** Paris, France | 📱 **Contact** [in/emmanuel-solom](https://www.linkedin.com/in/emmanuel-solom/) 
