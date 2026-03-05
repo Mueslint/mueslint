@@ -3,6 +3,9 @@
 > Welcome to my page where I cook several things, from my curiosity for trends (web3, rust, AI) to some personnal projects. <br />
 🪑 Grab a stool and enjoy the menu!
 
+## 🍜 **Today's special**
+[nihongo-learn.io](https://learn-japanese-rust.vercel.app/) Still warm! ♨️ (broth is simmering...)
+
 ## 🦑 **Ingredients** <br/>
  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
