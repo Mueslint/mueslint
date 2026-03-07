@@ -3,7 +3,7 @@
 > Welcome to my page where I cook several things, from my curiosity for trends (web3, rust, AI) to some personnal projects. <br />
 🪑 Grab a stool and enjoy the menu!
 
-## 🍜 今日の一品 *(Plat du jour)*
+## 🍜 今日の一品 *(Today's special)*
 nihongo-learn.io(WIP)
 ###### Still warm! ♨️ broth is simmering...
 
@@ -21,7 +21,7 @@ nihongo-learn.io(WIP)
 - **Learning mechanics** - SRS, Active Recall, Interleaving, Feynman method
 
 
-## 🏮 お開きの前に *(Avant que l'on se quitte)*
+## 🏮 お開きの前に *(Before you leave)*
 The kitchen is always open for interesting collaborations or late night chats.
 
 📍 **屋台** *(location)* Paris, France | 📱 **お問い合わせ** *(contact)* [in/emmanuel-solom](https://www.linkedin.com/in/emmanuel-solom/) 
