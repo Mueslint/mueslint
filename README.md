@@ -1,6 +1,6 @@
 # いらっしゃいませ! *(Welcome!)*
 
-> Welcome to my page where I cook several things, from my curiosity for trends (web3, rust, AI) to some personnal projects. <br />
+> Welcome to my page where I cook several things, from my curiosity for trends (web3, rust, AI) to some personal projects. <br />
 🪑 Grab a stool and enjoy the menu!
 
 ## 🍜 今日の一品 *(Today's special)*
