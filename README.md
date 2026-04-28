@@ -4,7 +4,7 @@
 🪑 Grab a stool and enjoy the menu!
 
 ## 🍜 今日の一品 *(Today's special)*
-nihongo-learn.io(WIP)
+[nihongo-learn.io](https://learn-japanese-rust.vercel.app/)
 ###### Still warm! ♨️ broth is simmering...
 
 ## 🦑 材料 *(ingredients)*
