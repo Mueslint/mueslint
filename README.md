@@ -4,7 +4,7 @@
 🪑 Grab a stool and enjoy the menu!
 
 ## 🍜 今日の一品 *(Today's special)*
-Learn everything needed for Japanese N5 with [nihongo](https://nihongo.emmanuelsolom.dev/))
+Learn everything needed for Japanese N5 with [nihongo](https://nihongo.emmanuelsolom.dev/) 🏯
 ###### Still warm! ♨️ broth is simmering...
 
 ## 🦑 材料 *(ingredients)*
