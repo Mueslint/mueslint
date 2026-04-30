@@ -24,4 +24,4 @@ Learn everything needed for Japanese N5 with [nihongo](https://nihongo.emmanuels
 ## 🏮 お開きの前に *(Before you leave)*
 The kitchen is always open for interesting collaborations or late night chats.
 
-📍 **屋台** *(location)* Paris, France | 📱 **お問い合わせ** *(contact)* [in/emmanuel-solom](https://www.linkedin.com/in/emmanuel-solom/) 
+📍 **屋台** *(location)* Paris, France | 🌐 **個人サイト** *(website)* [emmanuelsolom.dev](https://www.emmanuelsolom.dev/)  | 📫 **お問い合わせ** *(contact)* [contact@emmanuelsolom.dev](mailto:contact@emmanuelsolom.dev) 
